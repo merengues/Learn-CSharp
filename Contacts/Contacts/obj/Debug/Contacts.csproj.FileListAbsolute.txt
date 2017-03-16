@@ -1,0 +1,11 @@
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\bin\Debug\Contacts.exe.config
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\bin\Debug\Contacts.pdb
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.exe
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\obj\Debug\Contacts.pdb
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\bin\Debug\ContactDB.mdf
+D:\Head First C#\Learn-CSharp\Contacts\Contacts\bin\Debug\ContactDB_log.ldf
