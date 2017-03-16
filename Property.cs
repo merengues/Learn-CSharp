@@ -1,53 +1,19 @@
-// using System;
-// namespace Property
-// {
-//     class Name
-//     {
-//         public static void Main()
-//         {
-//             int i = 50;
-//             string str = i.ToString();
-//             Console.WriteLine(str);
-//             Console.WriteLine(str.GetType());
-//         }
-        
-//     }
-// }
-
 using System;
-namespace Wrox
+using ArrayList;
+namespace Collections
 {
-    class MainEnterPoint
+    class Test  
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Money cash = new Money();
-            cash.Amount = 40M;
-            Console.WriteLine("cash.ToString() returns: "+cash.ToString());
+            var list = new ArrayList();
+            list.Add(44);
+            int i1=(int)list[0];
 
-
-        }
-    }
-
-    public class Money
-    {
-        private decimal amount;
-
-        public decimal Amount
-        {
-            get
+            foreach (int i2 in list)
             {
-                return amount;
+                Console.WriteLine(i2);
             }
-            set
-            {
-                amount = value;
-            }
-        }
-
-        public override string ToString()
-        {
-            return "$" + amount.ToString();
         }
     }
 }
