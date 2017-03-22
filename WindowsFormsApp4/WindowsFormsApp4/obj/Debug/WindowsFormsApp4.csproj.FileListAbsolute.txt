@@ -1,0 +1,9 @@
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Head First C#\Learn-CSharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
